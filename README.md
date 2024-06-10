@@ -1,1 +1,1 @@
-# GAT1k-SNVs
+# GAT1k SNV Scripts
